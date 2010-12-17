@@ -8,7 +8,7 @@ I was working on a pack to fit the seasons, but haven't come up with anything ot
 
 ___Note__: this theme was only tested in [Sublime Text][4]. It should be fully compatible with [TextMate][1], but if you come across any errors, please report them and I'll do my best to fix them._
 
-[![Preview](http://github.com/Anomareh/Erebus.tmTheme/raw/master/screens/small.jpg)][5]
+[![Preview][100]][5]
 
 
 [1]: http://macromates.com/
@@ -16,3 +16,5 @@ ___Note__: this theme was only tested in [Sublime Text][4]. It should be fully c
 [3]: http://monokai.nl/
 [4]: http://www.sublimetext.com/
 [5]: http://github.com/Anomareh/Erebus.tmTheme/raw/master/screens/full.jpg
+
+[100]: http://github.com/Anomareh/Erebus.tmTheme/raw/master/screens/small.jpg
